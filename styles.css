@@ -78,6 +78,6 @@ footer a:hover {
     border-radius: 50%;        /* Convierte la imagen en un círculo */
     object-fit: cover;         /* Asegura que la imagen se recorte de forma adecuada */
     margin-bottom: 15px;       /* Espaciado debajo de la imagen */
-    border: 5px solid #000000;    /* Borde blanco alrededor de la imagen */
+    border: 2.5px solid #000000;    /* Borde blanco alrededor de la imagen */
 }
 
