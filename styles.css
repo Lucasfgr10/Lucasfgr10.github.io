@@ -74,8 +74,8 @@ footer a:hover {
 /* Estilo para la foto de perfil */
 .mi-rostro {
     width: 1000px;              /* Tamaño de la imagen (ajústalo según lo que prefieras) */
-    height: 1000px;             /* Asegura que la imagen tenga la misma altura y anchura */
-    border-radius: 50%;        /* Convierte la imagen en un círculo */
+    height: 200px;             /* Asegura que la imagen tenga la misma altura y anchura */
+    border-radius: 20%;        /* Convierte la imagen en un círculo */
     object-fit: cover;         /* Asegura que la imagen se recorte de forma adecuada */
     margin-bottom: 15px;       /* Espaciado debajo de la imagen */
     border: 2.5px solid #fff;    /* Borde blanco alrededor de la imagen */
