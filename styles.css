@@ -71,3 +71,13 @@ footer a {
 footer a:hover {
     text-decoration: underline;     /* Subrayado al pasar el ratón */
 }
+/* Estilo para la foto de perfil */
+.foto-perfil {
+    width: 150px;              /* Tamaño de la imagen (ajústalo según lo que prefieras) */
+    height: 150px;             /* Asegura que la imagen tenga la misma altura y anchura */
+    border-radius: 50%;        /* Convierte la imagen en un círculo */
+    object-fit: cover;         /* Asegura que la imagen se recorte de forma adecuada */
+    margin-bottom: 15px;       /* Espaciado debajo de la imagen */
+    border: 5px solid #fff;    /* Borde blanco alrededor de la imagen */
+}
+
